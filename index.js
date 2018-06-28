@@ -2,6 +2,8 @@
 function takeANumber(katzDeli) {
   var newcustomer = 0
   newcustomer++
+  var customerNUm =
+
 
   katzDeli.push(name)
   return ("Welcome, " + name +". You are number " + katzDeli.length + " in line.")
