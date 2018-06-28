@@ -2,7 +2,7 @@
 function takeANumber(katzDeli) {
   var newcustomer = 0
   newcustomer++
-  var customerNUm = 
+  var customerNUm =
 
 
   katzDeli.push(name)
